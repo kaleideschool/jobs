@@ -14,14 +14,7 @@
 
 ## WORK WITH US
 
-* [Work with us](work-with-us/jobs/README.md)
-  * [Early Years Facilitator](work-with-us/jobs/early-years-facilitator.md)
-  * [Early Years Lead Facilitator](work-with-us/jobs/early-years-lead-facilitator.md)
-  * [KS1-KS2/Primary Facilitator](work-with-us/jobs/key-stage-1-and-key-stage-2-facilitator.md)
-  * [Facilitador/a de Educación Infantil \(Segundo ciclo\)](work-with-us/jobs/facilitador-a-de-educacion-infantil-segundo-ciclo.md)
-  * [Facilitador/a de Educación Primaria](work-with-us/jobs/facilitador-a-de-educacion-primaria.md)
-  * [Preschool Facilitator](work-with-us/jobs/preschool.md)
-  * [Primary Education Facilitator](work-with-us/jobs/primary-education-facilitator.md)
+* [Work with us](work-with-us/jobs.md)
 * [Privacy Policy \(recruitment\)](privacy.md)
 
 ## LEGAL NOTICE <a id="legal"></a>
