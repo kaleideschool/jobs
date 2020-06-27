@@ -15,6 +15,9 @@
 ## WORK WITH US
 
 * [Work with us](work-with-us/jobs.md)
+
+---
+
 * [Privacy Policy \(recruitment\)](privacy.md)
 
 ## LEGAL NOTICE <a id="legal"></a>
