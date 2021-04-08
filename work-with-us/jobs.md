@@ -6,6 +6,12 @@ description: >-
 
 # Work with us
 
+
+
+{% hint style="info" %}
+Para leer la versión en español haz click [aquí](https://jobs.kaleide.org/v/espanol/)
+{% endhint %}
+
 {% hint style="success" %}
 We are currently recruiting native English teachers to join us in the 2021-22 school year.
 {% endhint %}
