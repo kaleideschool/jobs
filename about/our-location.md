@@ -1,6 +1,6 @@
 # Our Location
 
-**Kaleide International School will be located in a renovated building surrounded by 2500 m2 of gardens, in a quiet residential area of the beautiful and historic city of San Cristóbal de La Laguna, in the northern part of the island of Tenerife.** The centre of the city was declared a UNESCO World Heritage Site in 1999. La Laguna is the second most populated city in Tenerife after Santa Cruz, the capital, which is only 15 kilometres away. Both cities are connected by motorway and direct public transport. The international airport of Tenerife North, offering daily flights to continental Europe, is a 10-minute drive from the school.
+**Kaleide International School is located in a renovated building surrounded by 2500 m2 of gardens, in a quiet residential area of the beautiful and historic city of San Cristóbal de La Laguna, in the northern part of the island of Tenerife.** The centre of the city was declared a UNESCO World Heritage Site in 1999. La Laguna is the second most populated city in Tenerife after Santa Cruz, the capital, which is only 15 kilometres away. Both cities are connected by motorway and direct public transport. The international airport of Tenerife North, offering daily flights to continental Europe, is a 10-minute drive from the school.
 
 ![Historic centre of La Laguna, by Gabriel Garcia Marengo, CC BY 2.0  ](../.gitbook/assets/30579494570_d1dc86c74e_c.jpg)
 
