@@ -11,7 +11,7 @@ We use our own cookies and those of third parties for analytic purposes. If you 
 {% endhint %}
 
 {% hint style="success" %}
- For information about our vacancies for teachers check out our [job offers](https://jobs.kaleide.org/work-with-us/jobs).
+ **We are hiring! For information about our vacancies for teachers check out our** [**job offers**](https://jobs.kaleide.org/work-with-us/jobs)**.**
 {% endhint %}
 
 ### Nature-based Active Learning
