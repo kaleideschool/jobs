@@ -41,7 +41,7 @@ This is a full time position of 35 hours per week, including staff meetings, ope
 **Essential qualifications:**
 
 * Native English speaker 
-* Teaching qualifications/ecperience
+* Teaching qualifications/experience
 * Paediatric first aid \(ideally with outdoor specialism - this can be arranged if not held\)
 
   
