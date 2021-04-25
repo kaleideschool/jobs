@@ -50,13 +50,13 @@ This is a full time position of 35 hours per week, including staff meetings, ope
 
 The opportunity to enjoy working in a highly motivated team, with children who are eager to learn, in a school community where parents are very supportive, in the beautiful city of La Laguna, Tenerife.  
 Lunch time meal is provided for all adults to be eaten with the children**.** We provide in-house training for continuous professional development.  
-  
-**How to apply**
+
 
   
-****If you share our passion for creating a caring school environment where children can be in charge of their education, then please apply by application form, explaining in your supporting statement your reasons for your suitability for the post and attaching your CV.
+**How to apply:**
 
-  
+If you share our passion for creating a caring school environment where children can be in charge of their education, then please apply by application form, explaining in your supporting statement your reasons for your suitability for the post and attaching your CV.
+
 Please apply by midnight on Thursday 20th May. We are committed to safeguarding and promoting the welfare of children and young people, and expect all staff and volunteers to share this commitment.  An enhanced DBS disclosure is required for this post.
 
 **If you are a Preschool teacher**, please fill in the application ****form you will find [here](https://forms.gle/KjoT4ne8myfZ5SQX7).
