@@ -7,7 +7,7 @@ description: >-
 # Work with us
 
 {% hint style="success" %}
-We are currently recruiting teachers whose native language is English to join us in the 2022-23 school year or earlier.
+We are currently recruiting educators with a native or near-native level of English to join us in the 2022-23 school year or earlier.
 {% endhint %}
 
 We are primarily looking for someone who understands our vision, who shares the school's values, and who is as comfortable outdoors as indoors. Relevant qualifications, though not necessarily as a teacher –as well as a commitment to professional development– are essential. Spanish is not a requirement but would be an advantage.
@@ -48,9 +48,9 @@ This is a full time position of 35 hours per week, including staff meetings, and
 * Teaching qualifications or experience
 * Paediatric first aid (ideally with outdoor specialism - this can be arranged if not held)
 
-\
-\
-**What we can offer:**
+We will greatly value experience in PBL and a technological/scientific/maker/outdoor education background.\
+****\
+******What we can offer:**
 
 The opportunity to enjoy working in a highly motivated team, with children who are eager to learn, in a school community where parents are very supportive, in the beautiful city of La Laguna, Tenerife.
 
