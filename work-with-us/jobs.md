@@ -54,7 +54,11 @@ We will greatly value experience in PBL and a technological/scientific/maker/out
 
 The opportunity to enjoy working in a highly motivated team, with children who are eager to learn, in a school community where parents are very supportive, in the beautiful city of La Laguna, Tenerife.
 
-We provide in-house training for continuous professional development.\
+We provide in-house training for continuous professional development.
+
+Long-term contract.
+
+Salary according to your experience and qualifications, and to the Spanish Convenio de Educación de Enseñanza Privada.\
 
 
 \
